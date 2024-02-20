@@ -1,0 +1,10 @@
+.vs/
+EFLazyLoading/bin/
+EFLazyLoading/obj/
+GenericsDemo/bin/
+GenericsDemo/obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
